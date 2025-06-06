@@ -1,1 +1,2 @@
 # Nairobi-Metropolitan-Real-Time-Traffic-Update-project
+This project provides real-time traffic updates for the Nairobi Metropolitan area by integrating live Google Maps API data. Built using Python and Flask, the system displays current traffic conditions on an interactive map, helping users make informed decisions about their travel routes. It features a user-friendly web interface and can be extended for use in traffic monitoring, urban planning, or navigation apps.
